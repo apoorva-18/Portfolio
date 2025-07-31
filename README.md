@@ -6,7 +6,7 @@ A modern, responsive portfolio website built with React, Vite, Tailwind CSS, and
 
 ## 🚀 Live Demo
 
-[View Live Portfolio](https://your-portfolio-url.com)
+[View Live Portfolio][(http://13.239.240.156/)]
 
 ## ✨ Features
 
